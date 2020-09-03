@@ -6,7 +6,11 @@ public class Emp {
 		
 		System.out.println("Employee 1 changes");
 		
+
+		int a;
+
 		System.out.println("Employee 2 changes");
+
 
 	}
 
